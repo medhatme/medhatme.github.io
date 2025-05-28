@@ -9,6 +9,15 @@
         "image_soruce":"https://www.researchgate.net/publication/391806131/figure/fig4/AS:11431281442912004@1747446840747/Comparison-between-the-calculated-Fr-th-functions-for-different-I-brachytherapy_W640.jpg"
     },
     {
+        "paper_type":"Article",
+        "title": "Geant 4 Monte Carlo simulation for I-125 brachytherapy",
+        "date": "July 2024",
+        "journal": "Nuclear Engineering and Technology",
+        "description": "This study aims to validate the dosimetric characteristics of Low Dose Rate (LDR) I-125 source Geant4-based Monte Carlo code. According to the recommendation of the American Association of Physicists in Medicine (AAPM) task group report (TG-43), the dosimetric parameters of a new brachytherapy source should be verified either experimentally or theoretically before clinical procedures. The simulation studies are very important since this procedure delivers a high dose of radiation to the tumor with only a minimal dose affecting the surrounding tissues. GEANT4 Monte Carlo simulation toolkit associated brachytherapy example was modified, adapted and several updated techniques have been developed to facilitate and smooth radiotherapy techniques. The great concordance of the current study results with the consensus data and with the results of other MC based studies is promising. It implies that Geant4-based Monte Carlo simulation has the potential to be used as a reliable and standard simulation code in the field of brachytherapy for verification and treatment planning purposes.",
+        "link": "https://doi.org/10.1016/j.net.2024.02.010",
+        "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S1738573324000706-gr5.jpg"
+    },
+    {
         "paper_type": "Article",
         "title": "Wavelet transform theory: The mathematical principles of wavelet transform in gamma spectroscopy",
         "date": "October 2022",
