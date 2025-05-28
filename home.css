@@ -1,0 +1,75 @@
+/*---------------------------------------*\ 
+    AUTHOR: A.M.M. Elsayed   
+    * ALL RIGHTS RESERVED *
+\*---------------------------------------*/
+
+/*  this is for all the elements in the html file 
+    Here we chose to set zero distance between the
+    browser borders and the elements borders
+*/
+
+.navigations nav ul li #home {
+    font-weight:350;
+}
+
+.start {
+    max-width: 1000px;
+    min-width: 0;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.start img {
+    width: 350px;
+    height: 420px;
+    margin: 10px;
+    border-radius: 100%;
+    transition: width 0.5s ease
+}
+
+.start #greetings {
+    font-size: 35px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+    color: black;
+    letter-spacing: 0;
+    font-weight: 100;
+    text-shadow: none;
+    /* Define transitions for all changing properties */
+    transition: letter-spacing 0.5s ease, font-size 1s ease, text-shadow 0.3s ease;
+}
+
+@media screen and (min-width: 550px) {
+
+    /* .start img:hover {
+        width: 305px;
+    } */
+
+    .start #greetings:hover {
+        /* letter-spacing: 0.1em; Expand letter spacing */
+        font-size: 35px;
+        text-shadow: 0 0 5px rgb(24, 8, 118);
+    }
+}
+
+@media screen and (max-width: 550px) {
+
+    .start {
+        flex-direction: column;
+    }
+
+    .start img {
+        width: 250px;
+        height: 320px;
+    }
+    
+    .start #greetings {
+        font-size: 20px;
+    }
+
+}

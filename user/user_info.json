@@ -1,0 +1,13 @@
+{
+    "email": "medhatme@ymail.com",
+    "phone": "(+86) 15051263761",
+    "icons": {
+      "email": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/envelope-1024.png",
+      "phone": "https://cdn0.iconfinder.com/data/icons/essentials-solid-glyphs-vol-1/100/Phone-Call-Telephone-1024.png"
+    },
+    "social": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/m-e-medhat-6abb3852/", "icon": "https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-1024.png" },
+      { "name": "Facebook", "url": "https://www.facebook.com/medhat.moustafa.777", "icon": "https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Facebook_svg-1024.png" }
+    ]
+  }
+  

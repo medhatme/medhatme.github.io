@@ -1,0 +1,77 @@
+/*---------------------------------------*\ 
+    AUTHOR: A.M.M. Elsayed   
+    * ALL RIGHTS RESERVED *
+\*---------------------------------------*/
+
+.navigations nav ul li #about {
+    font-weight:350;
+}
+
+/* %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% */
+
+
+.PROG-LANG-TABLE {
+    padding: 20px;
+    width: 100%;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY{
+    display: flex;
+    flex-direction: row; 
+    justify-content:flex-start;   
+    align-items: stretch; 
+    border-bottom: 0.01cm solid black;
+    background-color: none;
+    transition: background-color 0.1s ease;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY:last-child{
+    border-bottom: none;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY:hover{
+    background-color: rgb(250, 250, 250);
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY .CATEGORY-TITLE{
+    display: flex;
+    flex-direction: column; 
+    justify-content:center;   
+    align-items: center; 
+    width: 100%;
+    max-width: 150px;
+    padding: 14px;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY .CATEGORY-TITLE spam{
+    font-weight: bold;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY .CATEGORY-CONTENT {
+    display: flex;
+    flex-direction: column; 
+    justify-content:flex-start;   
+    align-items: center; 
+    width: 100%;
+    max-width: 90px;
+    padding: 15px;
+}
+
+.PROG-LANG-TABLE .PROG-LANG-CATEGORY .CATEGORY-CONTENT img {
+    max-width: 40px;
+    max-height: 40px;
+}
+
+@media screen and (max-width: 900px) {
+
+    .PROG-LANG-TABLE .PROG-LANG-CATEGORY{
+        flex-wrap: wrap;
+        justify-content:center; 
+        border-bottom: none;
+    }
+
+    .PROG-LANG-TABLE .PROG-LANG-CATEGORY .CATEGORY-TITLE{
+        max-width: 800px;
+        background-color: rgb(245, 245, 245);
+    }
+}
