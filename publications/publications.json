@@ -208,24 +208,6 @@
     },
     {
         "paper_type": "Article",
-        "title": "Shielding efficiency of lead borate and nickel borate glasses for gamma rays and neutrons",
-        "date": "June 2015",
-        "journal": "Glass Physics and Chemistry",
-        "description": "Gamma ray exposure buildup factor (EBF) and neutron shielding efficiency of borate glass systems in composition (100 − x − y) Na2B4O7−xPbO−yNiO (where x and y = 0, 2, 4, 6, 8 and 10 weight percentage) were investigated in the present study. Gamma ray EBF values were computed using Geometric Progression (G-P) method for photon energy 0.015 to 15 MeV up to penetration depths of 40 mfp (mean free path). The macroscopic effective removal cross-sections (Σ R ) for fast neutron (2 to 12 MeV) were calculated. At low- and high-energy region, the EBF values were found minimum whereas maximum in the intermediate-energy regions with a sharp peak below 100 keV for oxide containing glass samples. The investigation was carried out for potential applications of borate glasses for radiation shielding.",
-        "link": "https://doi.org/10.1134/S1087659615030177",
-        "image_soruce":""
-    },
-    {
-        "paper_type": "Article",
-        "title": "Elemental concentration of Tea samples using Epithermal Neutron Beam",
-        "date": "August 2015",
-        "journal": "Journal of Basic and Applied Research International",
-        "description": "",
-        "link": "",
-        "image_soruce":""
-    },
-    {
-        "paper_type": "Article",
         "title": "A new expression for the full energy photo-peak efficiency of a high pure germanium detector as a function of distance and energy.",
         "date": "2015",
         "journal": "Journal of Applied Mechanical Engineering",
