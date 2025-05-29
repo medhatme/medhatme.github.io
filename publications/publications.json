@@ -483,7 +483,7 @@
         "journal": "Radiation Protection Dosimetry",
         "description": "The objective of this work is focused in measuring the level of naturally occurring radionuclides in compact fluorescent lamps commonly used in Egypt. The activity concentration of radionuclides in the 238U and 232Th decay chains and from 40K were determined through gamma-ray spectrometry measurements using high-purity germanium in a low-background configuration. It was found that the activity concentrations ranged from 45 to 198 Bq kg−1 for 238U, from 30 to 191 Bqkg−1 for 232Th and from 419 to 935 Bq kg−1 for 40K.",
         "link": "https://doi.org/10.1093/rpd/ncr472",
-        "image_soruce": ""
+        "image_soruce": "./publications/images/publication13.png"
     },
     {
         "paper_type": "Article",
@@ -499,9 +499,9 @@
         "title": "Elemental analysis of cement used for radiation shielding by instrumental neutron activation analysis",
         "date": "June 2011",
         "journal": "Nuclear Engineering and Design",
-        "description": "",
+        "description": "We aim to get the concentration of trace elements responsible of high radioactivity of a nuclear reactor shielding after removing the nuclear power station from service. These elements are activated by (n,γ) reaction during the reactor service life. These elements are Ce, Co, Cs, Eu, Fe, Hf, Sb, Sc, Ta and Tb that normally present in concrete shielding especially in cement. Different Egyptian cement samples have been irradiated with neutron beam and analyzed with gamma ray counting system. It was concluded that the radioactivity from these trace elements play an important role after a long cooling time or reactor decommissioning.",
         "link": "https://doi.org/10.1016/j.nucengdes.2011.03.025",
-        "image_soruce": ""
+        "image_soruce": "./publications/images/publication14.png"
     },
     {
         "paper_type": "Article",
