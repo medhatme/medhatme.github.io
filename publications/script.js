@@ -133,4 +133,6 @@ function highlightText(text, searchTerm) {
 }
 
 // Kick things off
-fetchJSONData();
+document.addEventListener('DOMContentLoaded', () => {
+    fetchJSONData(); // ← move your init call here
+});
