@@ -1,5 +1,14 @@
 [
     {
+        "paper_type":"Accepted",
+        "title": "Monte Carlo Simulations Validate Mass Energy Absorption Coefficients for Precision Dosimetry in Cancer Radiotherapy",
+        "date": "2025",
+        "journal": "Radiation Effects and Defects in Solids",
+        "description": "",
+        "link": "",
+        "image_soruce":""
+    },
+    {
         "paper_type":"Article",
         "title": "Monte carlo analysis of in low-energy 125I brachytherapy: implications for clinical dosimetry",
         "date": "May 2025",
@@ -7,6 +16,15 @@
         "description": "One of the primary limitations of the recommendations of the American Association of Physicists in Medicine (AAPM) Task Group is that it does not consider attenuation effects from individual sources in multi-source brachytherapy implants. To address this issue, the inter-source effect (ISE) parameter has been introduced. In the present study the ISE is evaluated and compared for several ¹²⁵I brachytherapy sources simulating three different ¹²⁵I source models with the Geant4 code. The validity of these models was confirmed by comparing their dosimetric parameters — such as the radial dose and anisotropy functions — with those reported in previous work. The ISE parameters and corresponding attenuation factors (µf) were determined for each source at various distances in a three-source implant configuration. The results emphasize the importance of accounting for inter-source attenuation in clinical dosimetry to prevent dose overestimation, as ISE and µf are highly dependent on factors like source spacing, orientation, and implant geometry, necessitating case-specific calculations for optimal treatment planning. The present study provides critical insights for improving accuracy in dose delivery in brachytherapy, particularly for low-energy ¹²⁵I sources, and underscores the need for careful consideration of source design and configuration in clinical practice.",
         "link": "http://dx.doi.org/10.1007/s00411-025-01128-0",
         "image_soruce":"https://www.researchgate.net/publication/391806131/figure/fig4/AS:11431281442912004@1747446840747/Comparison-between-the-calculated-Fr-th-functions-for-different-I-brachytherapy_W640.jpg"
+    },
+    {
+        "paper_type":"Article",
+        "title": "Monte Carlo simulation-based dosimetric evaluation of a novel 125I brachytherapy source: Comparative assessment of dosimetry parameters and shadowing effects",
+        "date": "Nov 2024",
+        "journal": "Nuclear Technology and Radiation Protection",
+        "description": "This study investigates a novel 125I radiotherapy source. It evaluates its dosimetric parameters using Monte Carlo simulation around the source, following the updated American Association of Physicists in Medicine Task Group recommendations. For this new source configuration, the dose rate constant L, geometry function G(r,θ), radial dose function gL(r), and anisotropy function F(r, q), were determined using Geant4 Monte Carlo simulations. Additionally, a comparison of the obtained dosimetric parameters with those of an earlier 125I source model was conducted to analyze the shadowing effect between the two designs during multi-source brachytherapy implants.",
+        "link": "https://doi.org/10.2298/NTRP2404312D",
+        "image_soruce":"./publications/images/publication1.png"
     },
     {
         "paper_type":"Article",
@@ -20,7 +38,7 @@
     {
         "paper_type": "Article",
         "title": "Wavelet transform theory: The mathematical principles of wavelet transform in gamma spectroscopy",
-        "date": "October 2022",
+        "date": "February 2023",
         "journal": "Radiation Physics and Chemistry",
         "description": "The objective of the proposed work was focused in presenting a novel algorithm for processing gamma-ray spectra based on theory of wavelet. We discuss the mathematical principles of applying wavelet transform (WT) method in processing γ-ray spectra and removing fluctuations and background from spectrum. The wavelet algorithm can apply accurately to detect most of peaks and determine net area under peaks. The proposed approach is able to detect most weak peaks in the searching processes. Wavelet method with some kind of discretization known as discrete wavelet transform (DWT) has been applied to filter noise and background detected with the spectrum. The effectiveness of the proposed algorithm is demonstrated via simulated spectra with different peaks containing backgrounds and with some measured gamma ray spectra. These analyzed results prove that the proposed DWT routine gives precise results for filtering and removing noise and background.",
         "link": "http://dx.doi.org/10.1016/j.radphyschem.2022.110592",
@@ -29,7 +47,7 @@
     {
         "paper_type": "Article",
         "title": " Development of distributed and automated system for 14MeV neutron generator laboratory",
-        "date": "December 2021",
+        "date": "April 2022",
         "journal": "Radiation Physics and Chemistry",
         "description": "Neutron generators are becoming an attractive alternative to reactors and radioactive neutron sources in a variety of applications in science and technology. Fast neutron activation analysis was firstly supposed to be a complementary method for the purpose of determining the absolute value of the neutron yield then become an elemental analytical technique. The arrangements necessary for using neutron generator for elemental analysis have been discussed including design, construction and characterization of the neutron generator. Source of errors has to be discussed that are assessed in the validation process and its expression in a standardized form. The contribution of these errors to the expanded uncertainty in the concentrations of Na, Mg, Al, Si, Cl, K, Ca and Fe in some domestic cement samples using 14 MeV neutron beam was assessed. and sample and assuming that all these errors were independent. the total estimated error was 5–7%.",
         "link": "http://dx.doi.org/10.1016/j.radphyschem.2021.109936",
@@ -47,7 +65,7 @@
     {
         "paper_type": "Article",
         "title": "Application of neural network for predicting photon attenuation through materials",
-        "date": "2018-11-28",
+        "date": "Nov 2018",
         "journal": "Radiation Effects and Defects in Solids",
         "description": "Photon attenuation prediction in composite materials usually requires a great expert knowledge and time-consuming calculations with complex procedures especially in experimental arrangements. An artificial neural network can be applied to predict exactly the value of mass attenuation at different energies. For training of the network a neural model was designed with chemical composition and molecular cross-section of samples as neural input, while the photon attenuation coefficient was its output. The method was applied for different composite materials with different chemical compositions. The results of mass attenuation coefficients were compared with the experimental and theoretical data for the same samples and a good agreement has been observed. The results indicate that this process can be followed to determine the data on the attenuation of gamma-rays with the several energies in different materials.",
         "link": "https://doi.org/10.1080/10420150.2018.1547903",
@@ -55,26 +73,8 @@
     },
     {
         "paper_type": "Article",
-        "title": "Efﬁcacy and safety of sofosbuvir‐based therapy in hepatitis C virus recurrence post living donor liver transplant: A real life egyptian experience",
-        "date": "2018-12-14",
-        "journal": "Journal of Medical Virology",
-        "description": "Photon attenuation prediction in composite materials usually requires a great expert knowledge and time-consuming calculations with complex procedures especially in experimental arrangements. An artificial neural network can be applied to predict exactly the value of mass attenuation at different energies. For training of the network a neural model was designed with chemical composition and molecular cross-section of samples as neural input, while the photon attenuation coefficient was its output. The method was applied for different composite materials with different chemical compositions. The results of mass attenuation coefficients were compared with the experimental and theoretical data for the same samples and a good agreement has been observed. The results indicate that this process can be followed to determine the data on the attenuation of gamma-rays with the several energies in different materials.",
-        "link": "https://doi.org/10.1002/jmv.25362",
-        "image_soruce": "https://www.tandfonline.com/cms/asset/18094d0c-d549-4656-8d0e-42ae8a7cc7cf/grad_a_1547903_f0007_oc.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Monte Carlo simulation for the estimation of iron in human whole blood and comparison with experimental data",
-        "date": "2017-2-10",
-        "journal": "Pramana",
-        "description": "Monte Carlo N-particle (MCNP) code has been used to simulate the transport of gamma photon rays of different energies (22, 31, 59.5 and 81 keV) to estimate the iron content in solutions. In this study, MCNP simulation results are compared with experiment and XCOM theoretical data. The simulation shows that the obtained results are in good agreement with experimental data, and better than the theoretical XCOM values. The study indicates that MCNP simulation is an excellent tool to estimate the iron concentration in the blood samples. The MCNP code can also be utilized to estimate other trace elements in the blood samples.",
-        "link": "https://doi.org/10.1007/s12043-016-1344-1",
-        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12043-016-1344-1/MediaObjects/12043_2016_1344_Fig1_HTML.gif?as=webp"
-    },
-    {
-        "paper_type": "Article",
         "title": "Optimization of fast neutron flux in an irradiator assembly using Monte Carlo simulations",
-        "date": "2017-4",
+        "date": "April 2017",
         "journal": "Vacuum",
         "description": "When carrying out experimental work related to neutron interactions with the matter, it is important to get an accurate knowledge about the angular distributions of neutron beam. Descriptions of the neutron source assembly as well as the irradiator design are discussed. A sealed tube neutron generator is used to produce 14 MeV neutrons through deuterium (2H) - tritium (3H) reactions. Monte Carlo simulations have been carried out for optimizing 14 MeV neutron flux distribution around a tritium target. Simulation was also tested by experimental measurements using a foil activation method. The discrepancy between two methods is due to sample preparations, irradiation facility and geometry.",
         "link": "https://doi.org/10.1016/j.vacuum.2017.01.026",
@@ -82,8 +82,17 @@
     },
     {
         "paper_type": "Article",
+        "title": "Monte Carlo simulation for the estimation of iron in human whole blood and comparison with experimental data",
+        "date": "February 2017",
+        "journal": "Pramana",
+        "description": "Monte Carlo N-particle (MCNP) code has been used to simulate the transport of gamma photon rays of different energies (22, 31, 59.5 and 81 keV) to estimate the iron content in solutions. In this study, MCNP simulation results are compared with experiment and XCOM theoretical data. The simulation shows that the obtained results are in good agreement with experimental data, and better than the theoretical XCOM values. The study indicates that MCNP simulation is an excellent tool to estimate the iron concentration in the blood samples. The MCNP code can also be utilized to estimate other trace elements in the blood samples.",
+        "link": "https://doi.org/10.1007/s12043-016-1344-1",
+        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12043-016-1344-1/MediaObjects/12043_2016_1344_Fig1_HTML.gif?as=webp"
+    },
+    {
+        "paper_type": "Article",
         "title": "Different methods of mass attenuation coefficient evaluation: Influences in the measurement of some soil physical properties",
-        "date": "2016-5",
+        "date": "May 2016",
         "journal": "Applied Radiation and Isotopes",
         "description": "The mass attenuation coefficients of Brazilian soils (μs) and water (μw) were measured and calculated at 59.5 keV (241Am) photon energy. The μs and μw experimental values were compared using XCOM and Monte Carlo computer codes (FLUKA, GEANT4 and MCNP). The influence of different methods of µ evaluation on the measurement of soil bulk density (ρs) and soil water content (θ) distributions and soil water retention (SWRC) was investigated. ρs and θ distributions were analyzed by using computed tomography (CT). Distinct ρs distributions were obtained even for similar µs values measured among methods. θ distributions were also greatly influenced by the different methods of μw evaluation. Regarding the SWRC, the results exhibited great differences in the region of structural pores, which directly affected the pore size distribution.",
         "link": "https://doi.org/10.1016/j.apradiso.2016.02.012",
@@ -92,7 +101,7 @@
     {
         "paper_type": "Article",
         "title": "Fast neutron activation analysis by means of low voltage neutron generator",
-        "date": "2016",
+        "date": "April 2016",
         "journal": "Results in Physics",
         "description": "A description of D-T neutron generator (NG) is presented. This machine can be used for fast neutron activation analysis applied to determine some selected elements, especially light elements, in different materials. Procedure of neutron flux determination and efficiency calculation is described. Examples of testing some Egyptian natural cosmetics are given.",
         "link": "https://doi.org/10.1016/j.rinp.2016.02.004",
@@ -101,7 +110,7 @@
     {
         "paper_type": "Article",
         "title": "Importance of photo atomic cross section for studying physical properties of different types of soil",
-        "date": "2016-3-7",
+        "date": "March 2016",
         "journal": "X-Ray Spectrometry",
         "description": "The objective of this work is focused on development of a classification tool for identifying soil texture based on photon attenuation interaction atomic cross-section data. The total mass attenuation coefficients (μ/ρ) and the atomic cross sections (σa) of soils with different textures have been calculated for total photon interactions in a wide energy range (1 keV to 100 GeV). The values of these parameters have been found to change with soil composition in low energies (1–100 keV), whereas their behavior has been found to be similar at all energies. Slight differences were observed in σa in the energy range of 0.01 to 10 MeV and more pronounced ones from 10 MeV to 100 GeV. Regarding μ/ρ, only small differences were observed among soils for all the energy range investigated. Differences between μ/ρ and σa considering different proportions of Fe2O3 and SiO2 were also observed. The reported data should be useful for studying soil texture according photo attenuation. The results of this work can stimulate research for all types of soil texture. Copyright © 2016 John Wiley & Sons, Ltd.",
         "link": "https://doi.org/10.1002/xrs.2689",
@@ -109,30 +118,75 @@
     },
     {
         "paper_type": "Article",
+        "title": "Geant4 Monte Carlo code application in photon interaction parameter of composite materials and comparison with XCOM and experimental data",
+        "date": "March 2016",
+        "journal": "Indian Journal of Pure & Applied Physics (IJPAP)",
+        "description": "In the present work, the applicability of Geant4 Monte Carlo code for mass attenuations of different types of composite materials such as building materials, glasses, plastics and water matrix at photon energies 59.5, 80, 356, 661.6, 1173.2 and 1332.5 keV has been tested. The Geant4 simulated results of mass attenuation coefficients of composite materials have been compared with the experimental and theoretical XCOM data and a good agreement has been observed. The results indicate that this simulation process can be followed to determine the data on the gamma rays interaction parameters with the several energies in different types of materials. The modeling for photon interaction has been standardarised for any type of composite samples. The Geant4 code can be utilized for gamma ray mass attenuation coefficients for each sample at different energies, which may sometimes be impractical by experiment investigation.",
+        "link": "http://op.niscair.res.in/index.php/IJPAP/article/view/3789",
+        "image_soruce":"./publications/images/publication2.png"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Application of Gamma-Ray Attenuation in Studying Soil Properties",
+        "date": "April 2016",
+        "journal": "Physical Science International Journal",
+        "description": "The objective of this work is focused to calculate the total mass attenuation coefficients, effective atomic numbers and electron densities in some soil samples for total and partial photon interactions in the wide energy range (1 keV–100 GeV). The values of these parameters have been found varied with composition of soil and energy while their trend has been found to be with all energies. The variations of these parameters according to energy are shown for all possible photon interactions. WinXCOM code was used to calculate soil mass attenuation coefficients. The obtained data should be important for comparing radiation sensitivity and radiation detection of soil. The results of this work can be used for research in other soils with different textiles.",
+        "link": "http://dx.doi.org/10.9734/PSIJ/2016/23419",
+        "image_soruce":"./publications/images/publication4.png"
+    },
+    {
+        "paper_type": "Article",
+        "title": "MCNP Modeling of Attenuation Coefficients of Steel, Red brass, Pearl and Beryl in comparison with Experimental and XCOM Data",
+        "date": "February 2016",
+        "journal": "Journal of Nuclear Energy Science & Power Generation Technology",
+        "description": "In this research, MCNP model for studying mass attenuations coefficients for steel, Red brass, Pearl and Beryl at 661.6, 1173.2 and 1332.5 keV photon energies is investigated. The simulated results of mass attenuation coefficients were compared with the experimental and XCOM results. The results indicate that this process can be followed to determine the data on the attenuation of gamma rays with the several energies in different materials. The modeling for photon interaction parameters was standard for any type of composite samples.",
+        "link": "http://dx.doi.org/10.4172/2325-9809.1000146",
+        "image_soruce":"./publications/images/publication3.png"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Radiation Shielding properties of U,Pb,W, Fe,Concrete,Water and Soft Tissues",
+        "date": "January 2016",
+        "journal": "",
+        "description": "Radiation shielding properties of U, Pb, W, Fe, concrete and soft tissues were studied in terms of mass attenuation coefficients and build-up factors with photon energies. A high atomic number element provides effective gamma ray shielding, therefore shielding properties of these materials have been investigated for energy range 0.015-15 MeV. High atomic number elements provide larger values of mass attenuation coefficients and large build-up factors for high energy photons. However, low atomic number elements containing materials show smaller mass attenuation coefficients and small build-up factors in low- and high-energy photons. The exposure build-up factors of high-Z elements show sharp peak in photoelectric absorption region, which vanishes for intermediate- and low-Z elements. Mixing of high-Z elements with low-Z elements and vice-versa modifies the exposure build-up factors due to alteration in equivalent atomic numbers.",
+        "link": "http://www.jnrd-nuclear.ro/",
+        "image_soruce":"https://www.researchgate.net/profile/V-P-Photon-Neutron/publication/301203768/figure/fig1/AS:358356742098944@1462450313068/Exposure-build-up-factors-of-considered-elements-compounds-and-composite-materials_W640.jpg"
+    },
+    {
+        "paper_type": "Article",
         "title": "A modern mathematical method for filtering noise in low count experiments",
-        "date": "2015",
+        "date": "December 2015",
         "journal": "Nuclear Technology and Radiation Protection",
         "description": "In the proposed work, a novel application of a numerical and functional analysis based on the discrete wavelet transform is discussed. The mathematics of improving signals and removing noises are described. Results obtained show that the method used in a variety of gamma spectra is superior to other techniques.",
         "link": "https://doi.org/10.2298/NTRP1504260M",
-        "image_soruce": ""
+        "image_soruce": "https://www.researchgate.net/profile/M-Medhat/publication/294277141/figure/fig2/AS:337546191097867@1457488691604/Fig-ure-2-Com-par-i-son-of-DFT-FFT-and-Savitzky-Golay-of-a-sim-u-lated-spec-trum-con_W640.jpg"
     },
     {
         "paper_type": "Article",
-        "title": "Comparative studies on shielding properties of some steel alloys using Geant4, MCNP, WinXCOM and experimental results",
-        "date": "2015-1",
-        "journal": "Radiation Physics and Chemistry",
-        "description": "The mass attenuation coefficients, µ/ρ and effective atomic numbers, Zeff of some carbon steel and stainless steel alloys have been calculated by using Geant4, MCNP simulation codes for different gamma ray energies, 279.1 keV, 661.6 keV, 662 keV, 1115.5 keV, 1173 keV and 1332 keV. The simulation results of Zeff using Geant4 and MCNP codes have been compared with possible available experimental results and theoretical WinXcom, and good agreement has been observed. The simulated µ/ρ and Zeff values using Geant4 and MCNP code signifies that both the simulation process can be followed to determine the gamma ray interaction properties of the alloys for energies wherever analogous experimental results may not be available. This kind of studies can be used for various applications such as for radiation dosimetry, medical and radiation shielding.",
-        "link": "https://doi.org/10.1016/j.radphyschem.2014.07.002",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14002904-gr1b.jpg"
+        "title": "Simulation and comparison of radiology X-ray spectra",
+        "date": "November 2015",
+        "journal": "Archives of Advances in Biosciences",
+        "description": "Monte Carlo method is a very accurate method to optimize medical diagnostic radiology spectra and simulation of radiation transportation. Using MCNP code, radiology and mammography attenuated x-rayspectraweresimulated.The IPEM report number 78 was used as a reference to compare with the GEANT4 and MCNP simulations because of its popularity and wide availability. The results of GEANT4 in 40keV showed a good homogeneity with IPEM report in terms of intensity, whilst the MCNP code in tube voltage 150kVp showed a very good agreement. Whereas theGEANT4outputintensityinallcases was less than the IPEM report, MCNP code showed higher characteristic peak intensity. The MCNP results were obtained with a less error percentage in comparison with IPEM reportexceptatlowenergies. The comparison shows a good agreement between these two codes. MCNP shows a very goodagreement in high tube voltage whereas GEANT4 showsvery goodagreement in low tube voltage.",
+        "link": "https://doi.org/10.22037/jps.v6i4.10620",
+        "image_soruce":"https://www.researchgate.net/profile/Seyed-Shirmardi/publication/284640100/figure/fig1/AS:299657268875264@1448455268443/Schematic-used-for-computational-simulation-of-x-ray-spectra-in-both-MCNP-and-GEANT4_W640.jpg"
     },
     {
         "paper_type": "Article",
-        "title": "Comprehensive study of photon attenuation through different construction matters by Monte Carlo Simulation",
-        "date": "2015-2",
-        "journal": "Radiation Physics and Chemistry",
-        "description": "The main goal of this work is focused on testing the applicability of Geant4 electromagnetic models for studying mass attenuations for different types of composite materials at 59.5, 80, 356, 661.6, 1173.2 and 1332.5 keV photon energies. The simulated results of mass attenuation coefficients were compared with the experimental and theoretical data for the same samples and a good agreement has been observed. The results indicate that this process can be followed to determine the data on the attenuation of gamma-rays with the several energies in different materials.",
-        "link": "https://doi.org/10.1016/j.radphyschem.2014.09.005",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14003739-gr1.jpg"
+        "title": "Determination of mass attenuation coefficient for some polymers using Monte Carlo simulation",
+        "date": "September 2015",
+        "journal": "Vacuum",
+        "description": "Mass attenuation coefficient, μ/ρ for some polymers with potential applications in dosimetry, and medical physics has been calculated using Monte Carlo simulation code, MCNP-4C at different gamma ray energies, 59.5, 279.1, 511, 661.6, 662, 1115.5, 1173, 1173.2, 1274.5 and 1332.5 keV. Appreciable variations were noted for mass attenuation coefficients for the polymers by changing the photon energy. The simulated μ/ρ values were compared with possible available experimental data and theoretical XCOM results, and good agreement was observed. Present study indicates that simulation geometry method is suitable to be used as an alternative method for the experiments. The present geometry can be used as standard geometry for MCNP simulation for low-Z materials. The calculated μ/ρ values using MCNP-4C code signify that the simulation geometry method can be followed to determine the gamma ray attenuation coefficients for the polymers for which there are no experimental values available.",
+        "link": "https://doi.org/10.1016/j.vacuum.2015.06.006",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0042207X15002687-gr1.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Application of Artificial Intelligence Methods in Quantitative Analysis of Gamma-ray Spectra",
+        "date": "September 2015",
+        "journal": "Journal of Applied and Computational Mathematics",
+        "description": "An artificial neural network (ANN) has been trained with real-sample spectra of radioactive materials. Following the training stage ANN was applied to a subset of similar samples Results obtained with the ANN method are in good agreement with results obtained from traditional techniques, showing the high potentiality of ANN.",
+        "link": "https://doi.org/10.4172/2168-9679.1000252",
+        "image_soruce":"https://figures.semanticscholar.org/7387238173b68412d2f70d5532c3652ddd881cd1/500px/2-Figure1-1.png"
     },
     {
         "paper_type": "Article",
@@ -141,21 +195,48 @@
         "journal": "Nuclear Technology and Radiation Protection",
         "description": "In the proposed work, an investigation on hazard assessment by lead element and natural radioactivity in cosmetic samples collected from various countries is presented. These samples were face powder, eyebrow paint and henna. The lead element in cosmetic samples was determined using particle-induced X-ray emission. Maximum natural radioactivity concentrations of 226Ra and 40K were found in khol and make-up cosmetic samples, respectively. The qualitative analysis of cosmetic samples showed that lead is the most toxic element found in eyebrow paint samples.",
         "link": "https://doi.org/10.2298/NTRP1503219M",
-        "image_soruce": ""
+        "image_soruce": "https://www.researchgate.net/profile/V-P-Photon-Neutron/publication/282706155/figure/fig1/AS:391482348457995@1470348073964/Fig-ure-1-Or-i-gins-of-cos-metic-sam-ples-studied_W640.jpg"
     },
     {
         "paper_type": "Article",
-        "title": "Determination of mass attenuation coefficient for some polymers using Monte Carlo simulation",
-        "date": "2015-9",
-        "journal": "Vacuum",
-        "description": "Mass attenuation coefficient, μ/ρ for some polymers with potential applications in dosimetry, and medical physics has been calculated using Monte Carlo simulation code, MCNP-4C at different gamma ray energies, 59.5, 279.1, 511, 661.6, 662, 1115.5, 1173, 1173.2, 1274.5 and 1332.5 keV. Appreciable variations were noted for mass attenuation coefficients for the polymers by changing the photon energy. The simulated μ/ρ values were compared with possible available experimental data and theoretical XCOM results, and good agreement was observed. Present study indicates that simulation geometry method is suitable to be used as an alternative method for the experiments. The present geometry can be used as standard geometry for MCNP simulation for low-Z materials. The calculated μ/ρ values using MCNP-4C code signify that the simulation geometry method can be followed to determine the gamma ray attenuation coefficients for the polymers for which there are no experimental values available.",
-        "link": "https://doi.org/10.1016/j.vacuum.2015.06.006",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0042207X15002687-gr1.jpg"
+        "title": "Artificial Neural Network: A tool for Rapid Quantitative Elemental Analysis Using Neutron Activation Analysis",
+        "date": "June 2015",
+        "journal": "International Journal of Advanced Research",
+        "description": "An artificial neural network (ANN) has been trained with real-sample NAA (neutron activation analysis) spectra of irradiated materials. Following the training stage ANN was applied to a subset of similar samples thus obtaining the elemental concentrations by NAA method. Results obtained with the ANN method are in good agreement with results obtained from NAA techniques, showing the high potentiality of ANN in NAA quantitative analyses.",
+        "link": "http://dx.doi.org/10.15662/ijareeie.2015.04060106",
+        "image_soruce":"https://www.researchgate.net/profile/M-Medhat/publication/281564595/figure/fig1/AS:302768003796992@1449196925621/A-diagram-showing-the-relationship-between-ANN-inputs-and-the-classical-NAA-experimental_W640.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Shielding efficiency of lead borate and nickel borate glasses for gamma rays and neutrons",
+        "date": "June 2015",
+        "journal": "Glass Physics and Chemistry",
+        "description": "Gamma ray exposure buildup factor (EBF) and neutron shielding efficiency of borate glass systems in composition (100 − x − y) Na2B4O7−xPbO−yNiO (where x and y = 0, 2, 4, 6, 8 and 10 weight percentage) were investigated in the present study. Gamma ray EBF values were computed using Geometric Progression (G-P) method for photon energy 0.015 to 15 MeV up to penetration depths of 40 mfp (mean free path). The macroscopic effective removal cross-sections (Σ R ) for fast neutron (2 to 12 MeV) were calculated. At low- and high-energy region, the EBF values were found minimum whereas maximum in the intermediate-energy regions with a sharp peak below 100 keV for oxide containing glass samples. The investigation was carried out for potential applications of borate glasses for radiation shielding.",
+        "link": "https://doi.org/10.1134/S1087659615030177",
+        "image_soruce":""
+    },
+    {
+        "paper_type": "Article",
+        "title": "Elemental concentration of Tea samples using Epithermal Neutron Beam",
+        "date": "August 2015",
+        "journal": "Journal of Basic and Applied Research International",
+        "description": "",
+        "link": "",
+        "image_soruce":""
+    },
+    {
+        "paper_type": "Article",
+        "title": "A new expression for the full energy photo-peak efficiency of a high pure germanium detector as a function of distance and energy.",
+        "date": "2015",
+        "journal": "Journal of Applied Mechanical Engineering",
+        "description": "A new expression for the full energy photo-peak efficiency in terms of gamma ray energy and the source detector distance has been obtained for a high pure germanium detector (HPGe) using different standard sources. Comparison of the calculated efficiencies and the experimentally measured values for the energy range from 59.5 1332.2 KeV and a source-detector distances 5, 10, 15, 20, 25 and 30 cm. This shows a good agreement between the theory and the experiment.",
+        "link": "https://doi.10.4172/2168-9873.1000168",
+        "image_soruce":""
     },
     {
         "paper_type": "Article",
         "title": "Investigation on radiation shielding parameters of oxide dispersion strengthened steels used in high temperature nuclear reactor applications",
-        "date": "2015-6",
+        "date": "June 2015",
         "journal": "Annals of Nuclear Energy",
         "description": "Oxide dispersion strengthened (ODS) based steels are being investigated for reactor/nuclear applications. Therefore, a better understanding of the interaction of different gamma ray energies with ODS materials is required. We use WinXCom program to calculate the mass attenuation coefficient for different compositions of ODS at photon energies (1 keV–100 GeV). The attenuation coefficient data were then used to obtain the effective atomic numbers (Zeff), effective electron densities (Nel) and photon mean free path (λ) of the investigated materials. The investigation was carried out to explore the radiation attenuation parameters of these important materials.",
         "link": "https://doi.org/10.1016/j.anucene.2015.01.044",
@@ -163,17 +244,53 @@
     },
     {
         "paper_type": "Article",
+        "title": "Study of photon interaction parameters in some newly developed superconductors",
+        "date": "May 2015",
+        "journal": "Indian Journal of Pure & Applied Physics",
+        "description": "The total mass attenuation coefficients, effective atomic numbers and electron densities in some recent and newly discovered non-centrosymmetric (NCS) and iron-based superconductors have been calculated for total and partial photon interactions in the wide energy range 1 keV-100 GeV. The values of these parameters have been found to change with composition of the superconductor and change in energy whereas their behaviour has been found to be identical with all energies. The variations of these parameters with energy are shown graphically for all photon interactions. The reported data could be useful for comparing these superconductors in terms of radiation sensitivity and radiation detection. The results of this work can stimulate research for other materials and different types of newly superconductors. © 2015, National Institute of Science Communication and Information Resources (NISCAIR). All rights reserved.",
+        "link": "http://op.niscair.res.in/index.php/ijpap/article/view/2468/245",
+        "image_soruce":"./publications/images/publication5.png"
+    },
+    {
+        "paper_type": "Article",
+        "title": "A Review on Applications of the Wavelet Transform Technique in Spectral Analysis",
+        "date": "April 2015",
+        "journal": "Journal of Applied & Computational Mathematics",
+        "description": " Starting from 1989, a new technique known as wavelet transforms (WT) has been applied successfully for analysis of different types of spectra. WT offers certain advantages over Fourier transforms for analysis of signals. A review of using this technique through spectral analysis is presented. The mathematical principles of applying WT in processing gamma spectra have been discussed.",
+        "link": "https://doi.10.4172/2168- 9679.1000224",
+        "image_soruce":""
+    },
+    {
+        "paper_type": "Article",
         "title": "Modern utilization of an accurate method for detecting essential elements in whole blood using low energy photons",
-        "date": "2015-3-3",
+        "date": "March 2015",
         "journal": "X-Ray Spectrometry",
         "description": "The objective of the proposed work was to measure concentration of six essential elements, Ca, Cu, Fe, Mn, Sr, and Zn directly in whole blood. The adopted method is based on the theory of attenuation of low energy photons through the whole blood sample. Photons are completely absorbed at energy region approximately (25–100 keV), of K-absorption edge for especially low-Z elements and at L-absorption edge especially for high-Z elements. Children, adults, and old people from whom the blood samples are taken are considered as subjects in this study. The aim of this work is not to investigate any disease or specific elemental changes. Blood samples were irradiated by 22.0, 31.0, and 59.5 keV photons emitted by 108Cd (1.78 GBq), 133Ba (2.92 GBq), and 241Am (2.78 GBq) radioactive point source. A high resolution high pure germanium spectrometer has been used to detect low energy photons with low counts peaks. When compared to the existing data in literature, it has been found that the results obtained in this study agree well with those reported. There are many advantages of this technique over other methods such as being practical, inexpensive, non-destructive, and can also do analysis fast. Copyright © 2015 John Wiley & Sons, Ltd.",
         "link": "https://doi.org/10.1002/xrs.2604",
-        "image_soruce": "https://analyticalsciencejournals.onlinelibrary.wiley.com/cms/asset/9c9fbc8f-5126-4e31-95a5-ba25a6d2e2b0/xrs2604-fig-0001-m.png"
+        "image_soruce": "https://analyticalsciencejournals.onlinelibrary.wiley.com/cms/asset/3f85c70a-e405-4a1c-9dbc-62c0b3c9dac0/xrs2604-fig-0005-m.png"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Comprehensive study of photon attenuation through different construction matters by Monte Carlo Simulation",
+        "date": "February 2015",
+        "journal": "Radiation Physics and Chemistry",
+        "description": "The main goal of this work is focused on testing the applicability of Geant4 electromagnetic models for studying mass attenuations for different types of composite materials at 59.5, 80, 356, 661.6, 1173.2 and 1332.5 keV photon energies. The simulated results of mass attenuation coefficients were compared with the experimental and theoretical data for the same samples and a good agreement has been observed. The results indicate that this process can be followed to determine the data on the attenuation of gamma-rays with the several energies in different materials.",
+        "link": "https://doi.org/10.1016/j.radphyschem.2014.09.005",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14003739-gr1.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Comparative studies on shielding properties of some steel alloys using Geant4, MCNP, WinXCOM and experimental results",
+        "date": "January 2015",
+        "journal": "Radiation Physics and Chemistry",
+        "description": "The mass attenuation coefficients, µ/ρ and effective atomic numbers, Zeff of some carbon steel and stainless steel alloys have been calculated by using Geant4, MCNP simulation codes for different gamma ray energies, 279.1 keV, 661.6 keV, 662 keV, 1115.5 keV, 1173 keV and 1332 keV. The simulation results of Zeff using Geant4 and MCNP codes have been compared with possible available experimental results and theoretical WinXcom, and good agreement has been observed. The simulated µ/ρ and Zeff values using Geant4 and MCNP code signifies that both the simulation process can be followed to determine the gamma ray interaction properties of the alloys for energies wherever analogous experimental results may not be available. This kind of studies can be used for various applications such as for radiation dosimetry, medical and radiation shielding.",
+        "link": "https://doi.org/10.1016/j.radphyschem.2014.07.002",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14002904-gr1b.jpg"
     },
     {
         "paper_type": "Article",
         "title": "Photon energy absorption coefficients for nuclear track detectors using Geant4 Monte Carlo simulation",
-        "date": "2015-1",
+        "date": "January 2015",
         "journal": "Radiation Physics and Chemistry",
         "description": "Geant4 Monte Carlo code simulations were used to solve experimental and theoretical complications for calculation of mass energy-absorption coefficients of elements, air, and compounds. The mass energy-absorption coefficients for nuclear track detectors were computed first time using Geant4 Monte Carlo code for energy 1 keV–20 MeV. Very good agreements for simulated results of mass energy-absorption coefficients for carbon, nitrogen, silicon, sodium iodide and nuclear track detectors were observed on comparison with the values reported in the literatures. Kerma relative to air for energy 1 keV–20 MeV and energy absorption buildup factors for energy 50 keV–10 MeV up to 10 mfp penetration depths of the selected nuclear track detectors were also calculated to evaluate the absorption of the gamma photons. Geant4 simulation can be utilized for estimation of mass energy-absorption coefficients in elements and composite materials.",
         "link": "https://doi.org/10.1016/j.radphyschem.2014.07.001",
@@ -182,88 +299,25 @@
     {
         "paper_type": "Article",
         "title": "Radiation shielding effectiveness of newly developed superconductors",
-        "date": "2015-1",
+        "date": "January 2015",
         "journal": "Radiation Physics and Chemistry",
         "description": "Gamma ray shielding effectiveness of superconductors with a high mass density has been investigated. We calculated the mass attenuation coefficients, the mean free path (mfp) and the exposure buildup factor (EBF). The gamma ray EBF was computed using the Geometric Progression (G-P) fitting method at energies 0.015–15 MeV, and for penetration depths up to 40 mfp. The fast-neutron shielding effectiveness has been characterized by the effective neutron removal cross-section of the superconductors. It is shown that CaPtSi3, CaIrSi3, and Bi2Sr2Ca1Cu2O8.2 are superior shielding materials for gamma rays and Tl0.6Rb0.4Fe1.67Se2 for fast neutrons. The present work should be useful in various applications of superconductors in fusion engineering and design.",
         "link": "https://doi.org/10.1016/j.radphyschem.2014.07.013",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14003016-gr6.jpg"
+        "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14003016-gr5.jpg"
     },
     {
         "paper_type": "Article",
-        "title": "A new method for detecting hemoglobin directly in whole blood using photon attenuation techniques",
-        "date": "2014-2-2",
-        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
-        "description": "The objective of the proposed work is focused on measuring iron concentration directly in whole blood as tool for estimating hemoglobin and anemic conditions in patients across the world. The investigated method depends on theory of photon attenuation through transmission of low energy in whole blood sample. The mathematical expressions for calculating hemoglobin and iron deficit on blood using photon attenuation are derived. Calculations are carried out for estimating concentration of iron in blood samples taken from children, adults and old patients and therefore measuring their hemoglobin and iron deficit from normal values. Theoretical mass attenuation coefficient values were obtained using the XCOM program. A high-resolution gamma-ray spectrometry based on high purity germanium detector was employed to measure attenuation of strongly collimated monoenergetic gamma beam through blood samples.",
-        "link": "https://doi.org/10.1007/s10967-014-2992-6",
-        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-2992-6/MediaObjects/10967_2014_2992_Fig5_HTML.gif?as=webp"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Analysis of photon interaction parameters as function of soil composition",
-        "date": "2014-2-27",
-        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
-        "description": "In the present work the total mass attenuation coefficients (μ/ρ) for some soils collected from the Southeast and South of Brazil were measured at 59.5 (241Am) and 661.6 keV (137Cs) photon energies. The experimental values of the soils μ/ρ were compared with XCOM program calculations and GEANT4 Monte Carlo simulations. Total atomic and electronic cross-sections, effective atomic and electron numbers of all soil samples were calculated in a wide energy range (1 keV–100 GeV). The values of these parameters have been found to vary with photon energy and chemical composition of the soil. The variations of these parameters with energy are shown graphically for total photon interactions. The results showed that loamy soils have low photon attenuation parameters than clayey ones for the region of 59.5 keV.",
-        "link": "https://doi.org/10.1007/s10967-014-3028-y",
-        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-3028-y/MediaObjects/10967_2014_3028_Fig3_HTML.gif?as=webp"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Assessment of exposure buildup factors of some oxide dispersion strengthened steels applied in modern nuclear engineering and designs",
-        "date": "2014-4",
-        "journal": "Nuclear Engineering and Design",
-        "description": "The gamma-ray exposure buildup factors of oxide dispersive-strengthen (ODS) steel alloys have been computed for photon energy 0.015–15 MeV up to 40 mean free path (mfp) penetration depth by geometrical progression (GP) method. An appreciable variation in exposure buildup factors for the investigated ODS steel alloys was observed. The exposure buildup factors of ODS alloys were observed strongly depending upon the photon energy, penetration depths and the chemical compositions. The exposure buildup factors were found to be small in low- and high-photon energy whereas these were very large in intermediate-energy region. Our investigation signifies that the Eurofer 97 ODS steel alloy is the superior gamma-ray and neutron shielding materials. This study should be useful for shielding design and application in future reactor technologies and fusion reactor blankets.",
-        "link": "https://doi.org/10.1016/j.nucengdes.2013.12.046",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0029549314000168-gr5.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Assessment of the suitability of Monte Carlo simulation for activity measurements of extended sources",
-        "date": "2014-2-16",
-        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
-        "description": "Monte Carlo simulations can be a powerful tool in calibrating high-resolution gamma-ray spectrometry based on high pure germanium (HPGe) detectors. The purpose of this work is to examine the applicability of Monte Carlo simulations for the computation of the efficiency transfer in various measurement geometries on the basis of the detected efficiency for point source geometry. For this, GEANT4 code was applied for the computation of the detection efficiency for incident gamma energy of radionuclide placed at different distances from HPGe detector from 50 to 2,000 keV in addition for volume sources of different compositions and densities. The experimental efficiency curves were compared with the prediction of the GEANT4 code. Efficiency is computed at discrete values of point and volume sources in different distances to derive new efficiencies values for other distances.",
-        "link": "https://doi.org/10.1007/s10967-014-3009-1",
-        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-3009-1/MediaObjects/10967_2014_3009_Fig2_HTML.gif?as=webp"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Calculation of gamma-ray mass attenuation coefficients of some Egyptian soil samples using Monte Carlo methods",
-        "date": "2014-6-2",
-        "journal": "Radiation Effects and Defects in Solids",
-        "description": "Monte Carlo simulations, FLUKA and Geant4, were performed to study mass attenuation for various types of soil at 59.5, 356.5, 661.6, 1173.2 and 1332.5 keV photon energies. Appreciable variations are noted for all parameters by changing the photon energy and the chemical composition of the sample. The simulations parameters were compared with experimental data and the XCOM program. The simulations show that the calculated mass attenuation coefficient values were closer to experimental values better than those obtained theoretically using the XCOM database for the same soil samples. The results indicate that Geant4 and FLUKA can be applied to estimate mass attenuation for various biological materials at different energies. The Monte Carlo method may be employed to make additional calculations on the photon attenuation characteristics of different soil samples collected from other places.",
-        "link": "https://doi.org/10.1080/10420150.2014.918129",
-        "image_soruce": "https://www.tandfonline.com/cms/asset/0c3e9375-4eb0-4fd1-84aa-807cd796a521/grad_a_918129_f0004_c.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Element analysis and calculation of the attenuation coefficients for gold, bronze and water matrixes using MCNP, WinXCom and experimental data",
-        "date": "2014-6",
+        "title": "Comprehensive study on energy absorption buildup factors and exposure buildup factors for photon energy 0.015 to 15 MeV up to 40 mfp penetration depth for gel dosimeters",
+        "date": "October 2014",
         "journal": "Radiation Physics and Chemistry",
-        "description": "In this study, element analysis and the mass attenuation coefficient for matrixes of gold, bronze and water with various impurities and the concentrations of heavy metals (Cu, Mn, Pb and Zn) are evaluated and calculated by the MCNP simulation code for photons emitted from Barium-133, Americium-241 and sources with energies between 1 and 100 keV. The MCNP data are compared with the experimental data and WinXCom code simulated results by Medhat. The results showed that the obtained results of bronze and gold matrix are in good agreement with the other methods for energies above 40 and 60 keV, respectively. However for water matrixes with various impurities, there is a good agreement between the three methods MCNP, WinXCom and the experimental one in low and high energies.",
-        "link": "https://doi.org/10.1016/j.radphyschem.2014.02.011",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14000565-gr2.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Estimation of background spectrum in a shielded HPGe detector using Monte Carlo simulations",
-        "date": "2014-2",
-        "journal": "Applied Radiation and Isotopes",
-        "description": "Monte Carlo simulations are powerful tools used to estimate the background γ-radiation detected by high-resolution gamma-ray spectrometry systems with a HPGe (high purity germanium) detector contained inside a lead shield. The purpose of this work was to examine the applicability of Monte Carlo simulations to predict the optimal lead thickness necessary to reduce the background effect in spectrometer measurements. GEANT4 code was applied to simulate the background radiation spectrum at different thicknesses of lead. The simulated results were compared with experimental measurements of background radiation taken at the same shielding thickness. The results show that the background radiation detected depends on the thickness, size and lining of the shield. Simulation showed that 12 cm lead thick is the optimal shielding thickness.",
-        "link": "https://doi.org/10.1016/j.apradiso.2013.10.017",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969804313004053-gr5.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Gamma-Ray Shielding Effectiveness of Some Alloys for Fusion Reactor Design",
-        "date": "2014-5-13",
-        "journal": "Journal of Fusion Energy",
-        "description": "The gamma-ray shielding effectiveness of some oxide dispersion-strengthen (ODS) alloys by means of mass attenuation coefficients, mean free path, exposure buildup factors and energy absorption buildup factors have been investigated in the present study. The buildup factors were calculated using geometrical progression method for photon energy 0.015–15 MeV up to 40 mfp penetration depth. The mass attenuation coefficients were calculated by using XCOM program and Geant4 simulation methods and found a very good agreement. Our investigation signifies that the low iron content ODS alloys are superior shielding materials with the lower buildup factors. This study should be useful for selection of shielding materials for their applications in fusion reactors design and future nuclear reactor technologies.",
-        "link": "https://doi.org/10.1007/s10894-014-9704-7",
-        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10894-014-9704-7/MediaObjects/10894_2014_9704_Fig5_HTML.gif?as=webp"
+        "description": "The gel dosimeter comprises of phantom, dosimetric material and three-D spatial dose distribution has advantages over one- and two-D dosimeters. Energy absorption buildup factor (EABF) and exposure buildup factor (EBF) values of sixteen gel dosimeters have been computed for photon energy 0.015 to 15 MeV up to 40 mfp (mean free path) penetration depths. Kerma of the gel dosimeters were computed for photon energy 1 keV to 20 MeV. The water and PMMA phantom equivalence of the gel dosimeters was evaluated using EABF, and large difference was noted below 1 MeV photon energy. This study should be useful for estimation of effective dose to the human organs and simulation of the dose for radiation therapy and various medical applications.",
+        "link": "https://doi.org/10.1016/j.radphyschem.2014.05.033",
+        "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14002084-gr6.jpg"
     },
     {
         "paper_type": "Article",
         "title": "Mass attenuation coefficients of composite materials by Geant4, XCOM and experimental data: comparative study",
-        "date": "2014-9-2",
+        "date": "Sep 2014",
         "journal": "Radiation Effects and Defects in Solids",
         "description": "The main goal of this present study is focused on testing the applicability of Geant4 electromagnetic models for studying mass attenuations coefficients for different types of composite materials at 59.5, 80, 356, 661.6, 1173.2 and 1332.5 keV photon energies. The simulated results of mass attenuation coefficients were compared with the experimental and theoretical XCOM data for the same samples and a good agreement has been observed. The results indicate that this process can be followed to determine the data on the attenuation of gamma rays with the several energies in different materials. The modeling for photon interaction parameters was standard for any type of composite samples. The Geant4 code can be utilized for gamma ray attenuation coefficients for the sample at different energies, which may sometimes be impractical by experiment investigation.",
         "link": "https://doi.org/10.1080/10420150.2014.950264",
@@ -271,17 +325,17 @@
     },
     {
         "paper_type": "Article",
-        "title": "Photon attenuation coefficients of thermoluminescent dosimetric materials by Geant4 toolkit, XCOM program and experimental data: A comparison study",
-        "date": "2014-6",
-        "journal": "Annals of Nuclear Energy",
-        "description": "The mass attenuation coefficients, μ/ρ of some thermoluminescent dosimetric materials with potential applications as personnel dosimeters, have been investigated using Geant4 simulation toolkit. Appreciable variations are noted for the μ/ρ values by changing the photon energy and chemical compositions. The Geant4 toolkit simulation results of μ/ρ are compared with experimental data wherever possible. Comparisons are also made with predictions from the XCOM program in the energy region from 1 keV to 100 GeV. Good agreement among Geant4 toolkit simulation, XCOM program and experimental data indicate that the Geant4 toolkit may be employed to make calculations on the μ/ρ values of various dosimetric materials. The results indicate that this process can be followed to determine the interaction of photon with the several energies in different materials.",
-        "link": "https://doi.org/10.1016/j.anucene.2014.01.011",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S030645491400019X-gr2af.jpg"
+        "title": "Comparison of Geant 4, MCNP Simulation Codes of Studying Attenuation of Gamma rays through Biological Materials with XCOM and Experimental Data",
+        "date": "August 2014",
+        "journal": "Applied and Computational Mathematics",
+        "description": "Biological materials (Blood, Bones, and Muscle) at different photon energies (59.5, 81.0, 356.5, 661.6, 1173.2 and 1332.5 keV). Appreciable variations are noted for attenuation coefficients by changing the photon energy and the chemical composition of the samples. The numerical simulations attenuation coefficients were compared with experimental data wherever possible and the XCOM theoretical data. The simulations show that the simulated mass attenuation coefficient values are very close to experimental values better than the other obtained theoretical data base for the same samples. The results indicate that MCNP and Geant4 simulation codes can be applied to estimate mass attenuation for various biological materials at different energies. Monte Carlo method may be employed to make additional calculations on the photon attenuation characteristics of different biological sample for unknown experimental data.",
+        "link": "http://dx.doi.org/10.4172/2168-9679.1000179",
+        "image_soruce":"./publications/images/publication6.png"
     },
     {
         "paper_type": "Article",
         "title": "Robust determination of mass attenuation coefficients of materials with unknown thickness and density",
-        "date": "2014-7",
+        "date": "July 2014",
         "journal": "Radiation Physics and Chemistry",
         "description": "An alternative approach is used to measure normalized mass attenuation coefficients (µ/ρ) of materials with unknown thickness and density. The adopted procedure is based on the use of simultaneous emission of Kα and Kβ X-ray lines as well as gamma peaks from radioactive sources in transmission geometry. 109Cd and 60Co radioactive sources were used for the purpose of the investigation. It has been observed that using the simultaneous X- and/or gamma rays of different energy allows accurate determination of relative mass attenuation coefficients by eliminating the dependence of µ/ρ on thickness and density of the material.",
         "link": "https://doi.org/10.1016/j.radphyschem.2014.03.031",
@@ -289,8 +343,80 @@
     },
     {
         "paper_type": "Article",
+        "title": "Calculation of gamma-ray mass attenuation coefficients of some Egyptian soil samples using Monte Carlo methods",
+        "date": "June 2014",
+        "journal": "Radiation Effects and Defects in Solids",
+        "description": "Monte Carlo simulations, FLUKA and Geant4, were performed to study mass attenuation for various types of soil at 59.5, 356.5, 661.6, 1173.2 and 1332.5 keV photon energies. Appreciable variations are noted for all parameters by changing the photon energy and the chemical composition of the sample. The simulations parameters were compared with experimental data and the XCOM program. The simulations show that the calculated mass attenuation coefficient values were closer to experimental values better than those obtained theoretically using the XCOM database for the same soil samples. The results indicate that Geant4 and FLUKA can be applied to estimate mass attenuation for various biological materials at different energies. The Monte Carlo method may be employed to make additional calculations on the photon attenuation characteristics of different soil samples collected from other places.",
+        "link": "https://doi.org/10.1080/10420150.2014.918129",
+        "image_soruce": "https://www.tandfonline.com/cms/asset/0c3e9375-4eb0-4fd1-84aa-807cd796a521/grad_a_918129_f0004_c.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Gamma-Ray Shielding Effectiveness of Some Alloys for Fusion Reactor Design",
+        "date": "May 2014",
+        "journal": "Journal of Fusion Energy",
+        "description": "The gamma-ray shielding effectiveness of some oxide dispersion-strengthen (ODS) alloys by means of mass attenuation coefficients, mean free path, exposure buildup factors and energy absorption buildup factors have been investigated in the present study. The buildup factors were calculated using geometrical progression method for photon energy 0.015–15 MeV up to 40 mfp penetration depth. The mass attenuation coefficients were calculated by using XCOM program and Geant4 simulation methods and found a very good agreement. Our investigation signifies that the low iron content ODS alloys are superior shielding materials with the lower buildup factors. This study should be useful for selection of shielding materials for their applications in fusion reactors design and future nuclear reactor technologies.",
+        "link": "https://doi.org/10.1007/s10894-014-9704-7",
+        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10894-014-9704-7/MediaObjects/10894_2014_9704_Fig4_HTML.gif?as=webp"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Element analysis and calculation of the attenuation coefficients for gold, bronze and water matrixes using MCNP, WinXCom and experimental data",
+        "date": "June 2014",
+        "journal": "Radiation Physics and Chemistry",
+        "description": "In this study, element analysis and the mass attenuation coefficient for matrixes of gold, bronze and water with various impurities and the concentrations of heavy metals (Cu, Mn, Pb and Zn) are evaluated and calculated by the MCNP simulation code for photons emitted from Barium-133, Americium-241 and sources with energies between 1 and 100 keV. The MCNP data are compared with the experimental data and WinXCom code simulated results by Medhat. The results showed that the obtained results of bronze and gold matrix are in good agreement with the other methods for energies above 40 and 60 keV, respectively. However for water matrixes with various impurities, there is a good agreement between the three methods MCNP, WinXCom and the experimental one in low and high energies.",
+        "link": "https://doi.org/10.1016/j.radphyschem.2014.02.011",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14000565-gr1.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Photon attenuation coefficients of thermoluminescent dosimetric materials by Geant4 toolkit, XCOM program and experimental data: A comparison study",
+        "date": "June 2014",
+        "journal": "Annals of Nuclear Energy",
+        "description": "The mass attenuation coefficients, μ/ρ of some thermoluminescent dosimetric materials with potential applications as personnel dosimeters, have been investigated using Geant4 simulation toolkit. Appreciable variations are noted for the μ/ρ values by changing the photon energy and chemical compositions. The Geant4 toolkit simulation results of μ/ρ are compared with experimental data wherever possible. Comparisons are also made with predictions from the XCOM program in the energy region from 1 keV to 100 GeV. Good agreement among Geant4 toolkit simulation, XCOM program and experimental data indicate that the Geant4 toolkit may be employed to make calculations on the μ/ρ values of various dosimetric materials. The results indicate that this process can be followed to determine the interaction of photon with the several energies in different materials.",
+        "link": "https://doi.org/10.1016/j.anucene.2014.01.011",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S030645491400019X-gr2af.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Assessment of the suitability of Monte Carlo simulation for activity measurements of extended sources",
+        "date": "April 2014",
+        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+        "description": "Monte Carlo simulations can be a powerful tool in calibrating high-resolution gamma-ray spectrometry based on high pure germanium (HPGe) detectors. The purpose of this work is to examine the applicability of Monte Carlo simulations for the computation of the efficiency transfer in various measurement geometries on the basis of the detected efficiency for point source geometry. For this, GEANT4 code was applied for the computation of the detection efficiency for incident gamma energy of radionuclide placed at different distances from HPGe detector from 50 to 2,000 keV in addition for volume sources of different compositions and densities. The experimental efficiency curves were compared with the prediction of the GEANT4 code. Efficiency is computed at discrete values of point and volume sources in different distances to derive new efficiencies values for other distances.",
+        "link": "https://doi.org/10.1007/s10967-014-3009-1",
+        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-3009-1/MediaObjects/10967_2014_3009_Fig2_HTML.gif?as=webp"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Assessment of exposure buildup factors of some oxide dispersion strengthened steels applied in modern nuclear engineering and designs",
+        "date": "April 2014",
+        "journal": "Nuclear Engineering and Design",
+        "description": "The gamma-ray exposure buildup factors of oxide dispersive-strengthen (ODS) steel alloys have been computed for photon energy 0.015–15 MeV up to 40 mean free path (mfp) penetration depth by geometrical progression (GP) method. An appreciable variation in exposure buildup factors for the investigated ODS steel alloys was observed. The exposure buildup factors of ODS alloys were observed strongly depending upon the photon energy, penetration depths and the chemical compositions. The exposure buildup factors were found to be small in low- and high-photon energy whereas these were very large in intermediate-energy region. Our investigation signifies that the Eurofer 97 ODS steel alloy is the superior gamma-ray and neutron shielding materials. This study should be useful for shielding design and application in future reactor technologies and fusion reactor blankets.",
+        "link": "https://doi.org/10.1016/j.nucengdes.2013.12.046",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0029549314000168-gr5.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Analysis of photon interaction parameters as function of soil composition",
+        "date": "February 2014",
+        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+        "description": "In the present work the total mass attenuation coefficients (μ/ρ) for some soils collected from the Southeast and South of Brazil were measured at 59.5 (241Am) and 661.6 keV (137Cs) photon energies. The experimental values of the soils μ/ρ were compared with XCOM program calculations and GEANT4 Monte Carlo simulations. Total atomic and electronic cross-sections, effective atomic and electron numbers of all soil samples were calculated in a wide energy range (1 keV–100 GeV). The values of these parameters have been found to vary with photon energy and chemical composition of the soil. The variations of these parameters with energy are shown graphically for total photon interactions. The results showed that loamy soils have low photon attenuation parameters than clayey ones for the region of 59.5 keV.",
+        "link": "https://doi.org/10.1007/s10967-014-3028-y",
+        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-3028-y/MediaObjects/10967_2014_3028_Fig3_HTML.gif?as=webp"
+    },
+    {
+        "paper_type": "Article",
+        "title": "A new method for detecting hemoglobin directly in whole blood using photon attenuation techniques",
+        "date": "February 2014",
+        "journal": "Journal of Radioanalytical and Nuclear Chemistry",
+        "description": "The objective of the proposed work is focused on measuring iron concentration directly in whole blood as tool for estimating hemoglobin and anemic conditions in patients across the world. The investigated method depends on theory of photon attenuation through transmission of low energy in whole blood sample. The mathematical expressions for calculating hemoglobin and iron deficit on blood using photon attenuation are derived. Calculations are carried out for estimating concentration of iron in blood samples taken from children, adults and old patients and therefore measuring their hemoglobin and iron deficit from normal values. Theoretical mass attenuation coefficient values were obtained using the XCOM program. A high-resolution gamma-ray spectrometry based on high purity germanium detector was employed to measure attenuation of strongly collimated monoenergetic gamma beam through blood samples.",
+        "link": "https://doi.org/10.1007/s10967-014-2992-6",
+        "image_soruce": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10967-014-2992-6/MediaObjects/10967_2014_2992_Fig4_HTML.gif?as=webp"
+    },
+    {
+        "paper_type": "Article",
         "title": "Utilization of Geant4 Monte Carlo simulation method for studying attenuation of photons in normal and heavy concretes at high energy values",
-        "date": "2014-2-2",
+        "date": "February 2014",
         "journal": "Journal of Radioanalytical and Nuclear Chemistry",
         "description": "The mass attenuation coefficients, μ/ρ, the linear attenuation coefficients, μ and the mean free path, MFP of normal and heavy concretes; ordinary, hematite-serpentine, ilmenite-limonite, basalt-magnetite, ilmenite, steel-scrap and steel-magnetite have been investigated using Geant4 Monte Carlo method at photon energies 1.5, 2, 3, 4, 5 and 6 MeV. The mass attenuation coefficients, the linear attenuation coefficient and the mean free path for the concretes were found dependent upon chemical compositions, density and the photon energy. The linear attenuation coefficient values for the selected concretes increase with the density and decrease with the energy. The mean free path thickness for the all the concretes decrease with increase in iron content and increase with increase the photon energy. The Geant4 Monte Carlo simulation method results have been compared with experimental and theoretical XCOM data, and showed a very good agreement. Our investigation validates the utilization of the Geant4 Monte Carlo simulation method for high energy photon interactions.",
         "link": "https://doi.org/10.1007/s10967-014-2984-6",
@@ -298,8 +424,26 @@
     },
     {
         "paper_type": "Article",
+        "title": "Estimation of background spectrum in a shielded HPGe detector using Monte Carlo simulations",
+        "date": "February 2014",
+        "journal": "Applied Radiation and Isotopes",
+        "description": "Monte Carlo simulations are powerful tools used to estimate the background γ-radiation detected by high-resolution gamma-ray spectrometry systems with a HPGe (high purity germanium) detector contained inside a lead shield. The purpose of this work was to examine the applicability of Monte Carlo simulations to predict the optimal lead thickness necessary to reduce the background effect in spectrometer measurements. GEANT4 code was applied to simulate the background radiation spectrum at different thicknesses of lead. The simulated results were compared with experimental measurements of background radiation taken at the same shielding thickness. The results show that the background radiation detected depends on the thickness, size and lining of the shield. Simulation showed that 12 cm lead thick is the optimal shielding thickness.",
+        "link": "https://doi.org/10.1016/j.apradiso.2013.10.017",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0969804313004053-gr5.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Simulation of 4π HPGe Compton-Suppression spectrometer",
+        "date": "January 2014",
+        "journal": "International Journal of Physical Sciences",
+        "description": "Compton-suppression spectrometer is well suited to the analysis of low levels of radioactive nuclides. Monte Carlo simulations can be a powerful tool in calibrating these types of detector systems, provided enough physical information on the system is known. A simplified Compton-suppression spectrometer model using the Geant–4 simulation toolkit was discussed. The spectrometer model was tested to evaluate photo peak efficiency of detecting point and disk sources. The efficiency calibration was calculated for incident gamma energy from 200 to 3000 keV in both the suppressed and unsuppressed mode of operation. The applicability of the efficiency transfer method in various measurement geometries was tested successfully. It can save time and avoid tedious experimental calibration for different samples geometries.",
+        "link": "https://doi.org/10.5897/IJPS2013.4075",
+        "image_soruce":"https://figures.semanticscholar.org/5edd96592a0451fa56667488d4b7ecbe275d4f72/3-Figure2-1.png"
+    },
+    {
+        "paper_type": "Article",
         "title": "Geant4 code for simulation attenuation of gamma rays through scintillation detectors",
-        "date": "2013-12",
+        "date": "December 2013",
         "journal": "Annals of Nuclear Energy",
         "description": "Geant4-based Monte Carlo simulations have been carried out for studying mass attenuation for different types of scintillation detectors at different photon energies. The simulations showed that the calculated mass attenuation values are close to experimental values better than the other obtained theoretical data base for the same detector. The results indicate that Geant4 can be applied to estimate mass attenuation for various materials and energies.",
         "link": "https://doi.org/10.1016/j.anucene.2013.06.034",
@@ -307,26 +451,8 @@
     },
     {
         "paper_type": "Article",
-        "title": "Application of gamma-ray transmission method for study the properties of cultivated soil",
-        "date": "2012-2",
-        "journal": "Annals of Nuclear Energy",
-        "description": "The objective of the proposed work was to apply gamma-ray transmission method for studying the properties of cultivated soil. In this study, mass attenuation coefficients, bulk density, moisture content, porosity, and field capacity are determined. Five soil samples are collected from different agriculture zones in Egypt. A high-resolution gamma-ray spectrometry based on HPGe (high purity germanium) detector was employed to measure attenuation of strongly collimated monoenergetic gamma beam through soil samples. The radioactive sources used in the experiment were 241Am, 133Ba, 137Cs and 60Co. The mass attenuation coefficients of soil samples were calculated from the transmission measurements. WinXCom program was used to calculate mass attenuation coefficients of soil samples. There is a satisfactory agreement between experimental and theoretical values. It was observed that gamma-ray transmission method is an efficient tool for studying soil parameters for agriculture purposes.",
-        "link": "https://doi.org/10.1016/j.anucene.2011.10.010",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0306454911004087-gr1.jpg"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Artificial intelligence methods applied for quantitative analysis of natural radioactive sources",
-        "date": "2012-7",
-        "journal": "Annals of Nuclear Energy",
-        "description": "Artificial neural network (ANN) represents one of artificial intelligence methods in the field of modeling and uncertainty in different applications. The objective of the proposed work was focused to apply ANN to identify isotopes and to predict uncertainties of their activities of some natural radioactive sources. The method was tested for analyzing gamma-ray spectra emitted from natural radionuclides in soil samples detected by a high-resolution gamma-ray spectrometry based on HPGe (high purity germanium). The principle of the suggested method is described, including, relevant input parameters definition, input data scaling and networks training. It is clear that there is satisfactory agreement between obtained and predicted results using neural network.",
-        "link": "https://doi.org/10.1016/j.anucene.2012.02.013",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S030645491200059X-gr2.jpg"
-    },
-    {
-        "paper_type": "Article",
         "title": "Gamma absorption technique in elemental analysis of composite materials",
-        "date": "2012-9",
+        "date": "Sep 2012",
         "journal": "Annals of Nuclear Energy",
         "description": "Expressions for calculating the elemental concentrations of composite materials based on a gamma absorption technique are derived. These expressions provide quantitative information about elemental concentrations of materials. Calculations are carried out for estimating the concentrations of copper and gold in some alloys of bronze and gold. The method was also applied for estimating the concentrations of some heavy elements in a water matrix highlighting the differences with photon attenuation measurements. Theoretical mass attenuation coefficient values were obtained using the WinXCom program. A high-resolution gamma-ray spectrometry based on high purity germanium detector (HPGe) was employed to measure the attenuation of a strongly collimated monoenergetic gamma beam through samples.",
         "link": "https://doi.org/10.1016/j.anucene.2012.04.028",
@@ -334,17 +460,8 @@
     },
     {
         "paper_type": "Article",
-        "title": "Radioactivity risk associated with the handling of compact fluorescent lamps",
-        "date": "2012-1-9",
-        "journal": "Radiation Protection Dosimetry",
-        "description": "The objective of this work is focused in measuring the level of naturally occurring radionuclides in compact fluorescent lamps commonly used in Egypt. The activity concentration of radionuclides in the 238U and 232Th decay chains and from 40K were determined through gamma-ray spectrometry measurements using high-purity germanium in a low-background configuration. It was found that the activity concentrations ranged from 45 to 198 Bq kg−1 for 238U, from 30 to 191 Bqkg−1 for 232Th and from 419 to 935 Bq kg−1 for 40K.",
-        "link": "https://doi.org/10.1093/rpd/ncr472",
-        "image_soruce": ""
-    },
-    {
-        "paper_type": "Article",
         "title": "Study of the mass attenuation coefficients and effective atomic numbers in some gemstones",
-        "date": "2012-5-4",
+        "date": "May 2012",
         "journal": "Journal of Radioanalytical and Nuclear Chemistry",
         "description": "The total mass attenuation coefficients for natural beryl, corundum, garnet, pearl, and tourmaline gemstones were measured at 81, 356.5, 661.6, 1173.2, and 1332.5 keV photon energies. The samples were irradiated with 133Ba, 137Cs and 60Co radioactive point sources using gamma ray transmission method. Total atomic and electronic cross-sections, effective atomic numbers and electron densities were determined experimentally and theoretically. The experimental values were compared with the calculated values for all samples. The calculations were extended for total photon interactions in a wide energy range (1 keV–100 GeV) using WinXCom program of the most commonly irradiated gemstones with different sources of ionized radiation. The values of these parameters have been found to vary with photon energy and chemical composition of the gemstones. All variations of these parameters against energy are shown graphically for total photon interactions.",
         "link": "https://doi.org/10.1007/s10967-012-1794-y",
@@ -352,8 +469,35 @@
     },
     {
         "paper_type": "Article",
+        "title": "Artificial intelligence methods applied for quantitative analysis of natural radioactive sources",
+        "date": "July 2012",
+        "journal": "Annals of Nuclear Energy",
+        "description": "Artificial neural network (ANN) represents one of artificial intelligence methods in the field of modeling and uncertainty in different applications. The objective of the proposed work was focused to apply ANN to identify isotopes and to predict uncertainties of their activities of some natural radioactive sources. The method was tested for analyzing gamma-ray spectra emitted from natural radionuclides in soil samples detected by a high-resolution gamma-ray spectrometry based on HPGe (high purity germanium). The principle of the suggested method is described, including, relevant input parameters definition, input data scaling and networks training. It is clear that there is satisfactory agreement between obtained and predicted results using neural network.",
+        "link": "https://doi.org/10.1016/j.anucene.2012.02.013",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S030645491200059X-gr2.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "Radioactivity risk associated with the handling of compact fluorescent lamps",
+        "date": "February 2012",
+        "journal": "Radiation Protection Dosimetry",
+        "description": "The objective of this work is focused in measuring the level of naturally occurring radionuclides in compact fluorescent lamps commonly used in Egypt. The activity concentration of radionuclides in the 238U and 232Th decay chains and from 40K were determined through gamma-ray spectrometry measurements using high-purity germanium in a low-background configuration. It was found that the activity concentrations ranged from 45 to 198 Bq kg−1 for 238U, from 30 to 191 Bqkg−1 for 232Th and from 419 to 935 Bq kg−1 for 40K.",
+        "link": "https://doi.org/10.1093/rpd/ncr472",
+        "image_soruce": ""
+    },
+    {
+        "paper_type": "Article",
+        "title": "Application of gamma-ray transmission method for study the properties of cultivated soil",
+        "date": "Febrauray 2012",
+        "journal": "Annals of Nuclear Energy",
+        "description": "The objective of the proposed work was to apply gamma-ray transmission method for studying the properties of cultivated soil. In this study, mass attenuation coefficients, bulk density, moisture content, porosity, and field capacity are determined. Five soil samples are collected from different agriculture zones in Egypt. A high-resolution gamma-ray spectrometry based on HPGe (high purity germanium) detector was employed to measure attenuation of strongly collimated monoenergetic gamma beam through soil samples. The radioactive sources used in the experiment were 241Am, 133Ba, 137Cs and 60Co. The mass attenuation coefficients of soil samples were calculated from the transmission measurements. WinXCom program was used to calculate mass attenuation coefficients of soil samples. There is a satisfactory agreement between experimental and theoretical values. It was observed that gamma-ray transmission method is an efficient tool for studying soil parameters for agriculture purposes.",
+        "link": "https://doi.org/10.1016/j.anucene.2011.10.010",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0306454911004087-gr1.jpg"
+    },
+    {
+        "paper_type": "Article",
         "title": "Elemental analysis of cement used for radiation shielding by instrumental neutron activation analysis",
-        "date": "2011-6",
+        "date": "June 2011",
         "journal": "Nuclear Engineering and Design",
         "description": "",
         "link": "https://doi.org/10.1016/j.nucengdes.2011.03.025",
@@ -361,8 +505,17 @@
     },
     {
         "paper_type": "Article",
+        "title": "Studies on effective atomic numbers and electron densities in different solid state track detectors in the energy range 1keV–100GeV",
+        "date": "June 2011",
+        "journal": "Annals of Nuclear Energy",
+        "description": "The total mass attenuation coefficients, effective atomic numbers and electron densities of different types of solid state track detectors have been calculated for total and partial photon interactions in the wide energy range of 1 keV–100 GeV using WinXCom program. The values of these parameters have been found to vary with photon energy and chemical composition of the detectors. The variations of these parameters with energy are shown graphically for all photon interactions. The results of this work can stimulate research for other detectors and different materials.",
+        "link": "https://doi.org/10.1016/j.anucene.2011.02.007",
+        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0306454911000661-gr2.jpg"
+    },
+    {
+        "paper_type": "Article",
         "title": "Radiation dose estimation of sand samples collected from different Egyptian beaches",
-        "date": "2010-12-17",
+        "date": "December 2010",
         "journal": "Radiation Protection Dosimetry",
         "description": "We aim to get the concentration of trace elements responsible of high radioactivity of a nuclear reactor shielding after removing the nuclear power station from service. These elements are activated by (n,γ) reaction during the reactor service life. These elements are Ce, Co, Cs, Eu, Fe, Hf, Sb, Sc, Ta and Tb that normally present in concrete shielding especially in cement. Different Egyptian cement samples have been irradiated with neutron beam and analyzed with gamma ray counting system. It was concluded that the radioactivity from these trace elements play an important role after a long cooling time or reactor decommissioning.",
         "link": "https://doi.org/10.1093/rpd/ncq498",
@@ -370,12 +523,12 @@
     },
     {
         "paper_type": "Article",
-        "title": "Studies on effective atomic numbers and electron densities in different solid state track detectors in the energy range 1keV–100GeV",
-        "date": "2011-6",
-        "journal": "Annals of Nuclear Energy",
-        "description": "The total mass attenuation coefficients, effective atomic numbers and electron densities of different types of solid state track detectors have been calculated for total and partial photon interactions in the wide energy range of 1 keV–100 GeV using WinXCom program. The values of these parameters have been found to vary with photon energy and chemical composition of the detectors. The variations of these parameters with energy are shown graphically for all photon interactions. The results of this work can stimulate research for other detectors and different materials.",
-        "link": "https://doi.org/10.1016/j.anucene.2011.02.007",
-        "image_soruce": "https://ars.els-cdn.com/content/image/1-s2.0-S0306454911000661-gr2.jpg"
+        "title": "Theoretical investigations for electronic structures and photodissociation of bromine molecule",
+        "date": "May 2010",
+        "journal": "International Journal of the Physical Sciences",
+        "description": "We have theoretically studied the nonadiabatic transitions among the lower states with Ω = 1u symmetry {1 u (Lindeman and Wiesenfeld, 1979) to 1 u (Alexander et al., 2000)} in the photodissociation of Br 2 using the complete active space self-consistent field (CASSCF) computations and the time-independent Schrodinger equations. The CASSCF wave function is formed from a complete distribution of a number of active electrons in a set of active orbitals, which in general constitute a subset of the total occupied space. From the configuration analysis of the CASSCF wave functions, we found that the nonadiabatic transition between 1u (Bracker et al., 1999) and 1u (Lindeman and Wiesenfeld, 1979) is a noncrossing type, while that between 1 u (Bracker et al., 1999) and B3Π0+u is a crossing type. The spectroscopic constants for the X1Σg+ , A 3Π1u and B 3Π0+u states of Br 2 have been calculated. The absorption cross-section for the ground and the lower excited states in the photodissociation of Br 2 molecule has been presented as well as the numerical estimates of nonadiabatic transition probabilities. Also, the five highest occupied and the five lowest unoccupied orbitals of Br 2 have been calculated.",
+        "link": "",
+        "image_soruce":"./publications/images/publication7.png"
     },
     {
         "paper_type": "Article",
@@ -398,10 +551,19 @@
     {
         "paper_type": "Article",
         "title": "A package for gamma-ray spectrum analysis and routine neutron activation analysis",
-        "date": "2005-8",
+        "date": "August 2005",
         "journal": "Pramana",
         "description": "A package for gamma spectrum analysis (PGSA) was developed using object-oriented Borland C++ design for MS-windows. This package consists of five programs which can be used for gamma-ray spectrum analysis and routine neutron activation analysis. The advantages of PGSA are its simple algorithms and its need for only minimum amount of input information.",
         "link": "https://doi.org/10.1007/BF02898613",
-        "image_soruce": ""
+        "image_soruce": "./publications/images/publication8.jpg"
+    },
+    {
+        "paper_type": "Article",
+        "title": "ANALYSIS OF SOME EGYPTIAN COSMETIC SAMPLES BY USING FAST NEUTRON ACTIVATION ANALYSIS",
+        "date": "October 2001",
+        "journal": "Communication of joint Institute of Nuclear Research (JINR)",
+        "description": "A description of our neutron generator (NG) facility for neutron activation analysis is presented. As an example, the concentration of Na, Mg, Al, Si, K, Cl, Ca and Fe elements were determined in two domestic brands of face powder by using a beam of 14 MeV neutrons. An empirical expression for detector efficiency in terms of incident gamma ray energy and the source-detector distance has been obtained for a hyper pure germanium detector (HPGe) using different standard point sources. The comparison of the calculated efficiencies and the measured values in the energy range from 59.5 to 1332.2 keV and for source-to-detector distances of 5-30 cm show the agreement between the calculated values and the measured experimental values.",
+        "link": "https://www.osti.gov/etdeweb/servlets/purl/20808730",
+        "image_soruce":""
     }
 ]
