@@ -231,7 +231,7 @@
         "journal": "Journal of Applied Mechanical Engineering",
         "description": "A new expression for the full energy photo-peak efficiency in terms of gamma ray energy and the source detector distance has been obtained for a high pure germanium detector (HPGe) using different standard sources. Comparison of the calculated efficiencies and the experimentally measured values for the energy range from 59.5 1332.2 KeV and a source-detector distances 5, 10, 15, 20, 25 and 30 cm. This shows a good agreement between the theory and the experiment.",
         "link": "https://doi.10.4172/2168-9873.1000168",
-        "image_soruce":""
+        "image_soruce":"./publications/images/publication10.png"
     },
     {
         "paper_type": "Article",
@@ -258,7 +258,7 @@
         "journal": "Journal of Applied & Computational Mathematics",
         "description": " Starting from 1989, a new technique known as wavelet transforms (WT) has been applied successfully for analysis of different types of spectra. WT offers certain advantages over Fourier transforms for analysis of signals. A review of using this technique through spectral analysis is presented. The mathematical principles of applying WT in processing gamma spectra have been discussed.",
         "link": "https://doi.10.4172/2168- 9679.1000224",
-        "image_soruce":""
+        "image_soruce":"./publications/images/publication11.png"
     },
     {
         "paper_type": "Article",
@@ -312,7 +312,7 @@
         "journal": "Radiation Physics and Chemistry",
         "description": "The gel dosimeter comprises of phantom, dosimetric material and three-D spatial dose distribution has advantages over one- and two-D dosimeters. Energy absorption buildup factor (EABF) and exposure buildup factor (EBF) values of sixteen gel dosimeters have been computed for photon energy 0.015 to 15 MeV up to 40 mfp (mean free path) penetration depths. Kerma of the gel dosimeters were computed for photon energy 1 keV to 20 MeV. The water and PMMA phantom equivalence of the gel dosimeters was evaluated using EABF, and large difference was noted below 1 MeV photon energy. This study should be useful for estimation of effective dose to the human organs and simulation of the dose for radiation therapy and various medical applications.",
         "link": "https://doi.org/10.1016/j.radphyschem.2014.05.033",
-        "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S0969806X14002084-gr6.jpg"
+        "image_soruce":"./publications/images/publication12.png"
     },
     {
         "paper_type": "Article",
