@@ -10,7 +10,7 @@
     },
     {
         "paper_type":"Article",
-        "title": "Monte carlo analysis of in low-energy 125I brachytherapy: implications for clinical dosimetry",
+        "title": "Monte carlo analysis of low-energy 125I brachytherapy: implications for clinical dosimetry",
         "date": "May 2025",
         "journal": "Radiation and Environmental Biophysics",
         "description": "One of the primary limitations of the recommendations of the American Association of Physicists in Medicine (AAPM) Task Group is that it does not consider attenuation effects from individual sources in multi-source brachytherapy implants. To address this issue, the inter-source effect (ISE) parameter has been introduced. In the present study the ISE is evaluated and compared for several ¹²⁵I brachytherapy sources simulating three different ¹²⁵I source models with the Geant4 code. The validity of these models was confirmed by comparing their dosimetric parameters — such as the radial dose and anisotropy functions — with those reported in previous work. The ISE parameters and corresponding attenuation factors (µf) were determined for each source at various distances in a three-source implant configuration. The results emphasize the importance of accounting for inter-source attenuation in clinical dosimetry to prevent dose overestimation, as ISE and µf are highly dependent on factors like source spacing, orientation, and implant geometry, necessitating case-specific calculations for optimal treatment planning. The present study provides critical insights for improving accuracy in dose delivery in brachytherapy, particularly for low-energy ¹²⁵I sources, and underscores the need for careful consideration of source design and configuration in clinical practice.",
